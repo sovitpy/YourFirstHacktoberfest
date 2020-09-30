@@ -1,4 +1,5 @@
 // "Hello, World!" Challenge
+// This challenge was first solved by @amwsis. So, further changes to this file wouldn't be accepted.
 /* 
 	Hello there,
 	
