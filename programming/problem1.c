@@ -12,5 +12,5 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hi, world!");
+	printf("Hello, world!");
 }
