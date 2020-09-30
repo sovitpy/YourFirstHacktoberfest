@@ -14,7 +14,7 @@ Contributors | Interests
 Binit Ghimire | #DevSecNetSysServCloud
 Aryan Kashyap | #WebDevelopment
 Prasiddha Bhusal | #DevSec
-_Your Name Here_ | _What do you love?_
+_Bibek Shah_ | _#BugBounty_
 
 *You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so.*
 
