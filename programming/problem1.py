@@ -9,4 +9,4 @@
 	Thanks,
 	Binit Ghimire
 """
-print("Hi, world!")
+print("Hello, world!")
