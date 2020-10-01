@@ -16,7 +16,7 @@ Aryan Kashyap | #WebDevelopment
 Prasiddha Bhusal | #DevSec
 Md Rasel Bhuyan | #infoSecResearcher
 _Bibek Shah_ | _#BugBounty_
-_Your Name Here_ | _What do you love?_
+Pratik Gyawali | #Pentesting
 
 *You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so.*
 
