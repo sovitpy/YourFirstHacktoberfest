@@ -13,11 +13,11 @@ Contributors | Interests
 ------------ | -------------
 [Binit Ghimire](https://github.com/TheBinitGhimire) | #DevSecNetSysServCloud
 [Aryan Kashyap](https://github.com/iaryankashyap) | #WebDevelopment
-Prasiddha Bhusal | #DevSec
-Md Rasel Bhuyan | #infoSecResearcher
+[Prasiddha Bhusal](https://github.com/amwsis) | #DevSec
+[Md Rasel Bhuyan](https://github.com/Ph4nToM-R4Y) | #infoSecResearcher
 [_Bibek Shah_](https://github.com/b1bek) | _#BugBounty_
 [Pratik Gyawali](https://github.com/ThePratikGyawali) | #Pentesting
-[Sudarshan Rai](https://github.com/mrsudarshanrai) | #wevDeveloper
+[Sudarshan Rai](https://github.com/mrsudarshanrai) | #webDeveloper
 _Your Name Here_ | _What do you love?_
 
 *You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so.*
