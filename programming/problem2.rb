@@ -7,14 +7,4 @@
  Can you help him? The first person to write a program for his problem and create a PR for it would have his/her PR merged.
 =end
 
-# Solution
-puts "Enter first string: "
-first = gets
-first.delete!("\n")
-
-puts "\nEnter second string:"
-second = gets
-
-str = first
-str.concat(second)
-print("\nResult: " + str)
+# Write your program here!
