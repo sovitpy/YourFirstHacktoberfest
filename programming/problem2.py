@@ -8,6 +8,4 @@
 """
 
 # Write your program here!
-firststr=input("Enter first string:")
-secondstr=input("Enter second string:")
-print(firststr+secondstr)
+print(f'{input("Enter first string:")}{input("Enter second string:")}')

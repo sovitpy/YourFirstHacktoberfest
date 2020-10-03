@@ -26,6 +26,7 @@ Contributors | Interests
 [Gunaraj Khatri](https://github.com/GunarajKhatri) | #WebDeveloper
 [Nachiketa Vadera](https://github.com/NachiketaVadera) | #AppDev
 [Parbat Nepal](https://github.com/parbatnepal) | #SEO
+[Scott](https://github.com/scott-au/) | #QA
 _Your Name Here_ | _What do you love?_
 
 *You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so.*
