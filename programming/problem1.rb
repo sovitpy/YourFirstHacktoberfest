@@ -4,4 +4,4 @@
 	
 	The first person to do so in the correct way and create a PR for it would be eligible for his/her PR to be merged.
 =end
-puts "Hi, world!"
+puts "Hello, world!"
