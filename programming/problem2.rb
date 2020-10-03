@@ -8,3 +8,14 @@
 =end
 
 # Write your program here!
+
+# taking first string object 
+str1 = "Hello"
+# taking second string object
+str2 = " everyone!"
+
+# using the concat method 
+str1.concat(str2) 
+   
+# displaying the output 
+puts str1 
