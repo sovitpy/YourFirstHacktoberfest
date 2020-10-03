@@ -8,3 +8,6 @@
 """
 
 # Write your program here!
+firststr=input("Enter first string:")
+secondstr=input("Enter second string:")
+print(firststr+secondstr)
