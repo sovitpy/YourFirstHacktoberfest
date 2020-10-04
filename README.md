@@ -28,6 +28,7 @@ Contributors | Interests
 [Parbat Nepal](https://github.com/parbatnepal) | #SEO
 [Scott](https://github.com/scott-au/) | #QA
 [WHOIS](https://github.com/WHOISbinit/) | #WHOIS
+[Andrew Alagna](https://github.com/aalagna04)| #Appdev
 _Your Name Here_ | _What do you love?_
 
 *You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so.*
