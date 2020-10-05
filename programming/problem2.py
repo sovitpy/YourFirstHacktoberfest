@@ -9,3 +9,9 @@
 
 # Write your program here!
 print(f'{input("Enter first string:")}{input("Enter second string:")}')
+
+# Using '+' operator for concatenating strings
+string1 = "Hello"
+string2 = "World"
+Result = string1 + string2
+print(Result)
