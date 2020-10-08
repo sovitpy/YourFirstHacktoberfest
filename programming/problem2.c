@@ -9,31 +9,36 @@
 
 // Write your program here!
 // this program concatenates two string in c without the use of strcat
+
 #include <stdio.h>
-#include <string.h>
 
-int main()
-{
-  	char Str1[100], Str2[100];
-  	int i, j;
+void main(void){
+ 
+    // variable declaration
+    char string_one[100], string_two[100], accumulated_string[200];
+    int i, j, length = 0;
 
-  	printf("\n Please Enter the First String :  ");
-  	gets(Str1);
+    // asking the user for the two strings
+    printf("String one: ");
+        scanf("%s", &string_one);
+    printf("String two: ");
+        scanf("%s", &string_two);
 
-  	printf("\n Please Enter the Second String :  ");
-  	gets(Str2);
+    // finding the "actual" length of string_one
+    for(i = 0 ; i<100 ; i++){
+        accumulated_string[i] = string_one[i]; // copying "string_one" in "accumulated_string"
+        if(string_one[i] == '\0')
+            break;
+        length++;
+    }
 
-        // To iterate First String from Start to end  
-  	for (i = 0; Str1[i]!='\0'; i++);
+    // appending the string_two with string_one, after the last character of string_one flagged by "length"
+    for(j = 0 ; j<100 ; j++){
+        accumulated_string[length] = string_two[j];
+        if(string_two[j] == '\0')
+            break;
+        length++;
+    }
 
-        // Concatenating Str2 into Str1  	
-  	for (j = 0; Str2[j]!='\0'; j++, i++)
-  	{
-  		Str1[i] = Str2[j];
-  	}
-  	Str1[i] = '\0';
-
-  	printf("\n String after the Concatenate = %s", Str1);
-
-  	return 0;
+    printf("\nThe concatenated string is %s", accumulated_string);
 }
