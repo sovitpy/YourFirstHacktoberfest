@@ -37,6 +37,7 @@ Contributors | Interests
 [SIOHW] | #SecOps
 [0DayGod](https://github.com/0DayGod) | #0Day
 [Bibek](https://github.com/Bibeknx) | #DevSecOps
+[Karuna Bhandari](https://github.com/karunabhandari) | #DevStudent
 [Bibek Uprety](https://github.com/8183K) | #Sec1337
 _Your Name Here_ | _What do you love?_
 
