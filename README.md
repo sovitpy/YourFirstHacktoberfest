@@ -31,6 +31,8 @@ Contributors | Interests
 [Andrew Alagna](https://github.com/aalagna04)| #Appdev
 [Ruben Kharel](https://github.com/rubenkharel) | #WebDevSec
 [Rahul Dahal](https://github.com/rahuldahal) | #WebDevelopment
+[Nirmal Nambiar](https://github.com/nim-nambi) | #CyberSec
+[Rahul Dahal](https://github.com/rahuldahal) | #WebDevelopment
 [SIOHW] | #SecOps
 _Your Name Here_ | _What do you love?_
 
