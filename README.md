@@ -37,6 +37,7 @@ Contributors | Interests
 [SIOHW] | #SecOps
 [0DayGod](https://github.com/0DayGod) | #0Day
 [Bibek](https://github.com/Bibeknx) | #DevSecOps
+[Bibek Uprety](https://github.com/8183K) | #Sec1337
 _Your Name Here_ | _What do you love?_
 
 *You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so.*
