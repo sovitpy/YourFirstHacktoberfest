@@ -33,8 +33,8 @@ Contributors | Interests
 [Rahul Dahal](https://github.com/rahuldahal) | #WebDevelopment
 [Nirmal Nambiar](https://github.com/nim-nambi) | #CyberSec
 [Rahul Dahal](https://github.com/rahuldahal) | #WebDevelopment
-[SHWOI] | #DevOps
-[SIOHW] | #SecOps
+SHWOI | #DevOps
+SIOHW | #SecOps
 [0DayGod](https://github.com/0DayGod) | #0Day
 [Bibek](https://github.com/Bibeknx) | #DevSecOps
 [Karuna Bhandari](https://github.com/karunabhandari) | #DevStudent
