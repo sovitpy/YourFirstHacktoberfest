@@ -5,5 +5,9 @@
 ## Solution:
 
 #!/bin/bash
-echo -n "Enter domain name: "; read domain
-whois $domain
+read -p "Enter domain names separated by space ' ' : " input
+for i in ${input[@]}
+do
+whois $i
+done
+
