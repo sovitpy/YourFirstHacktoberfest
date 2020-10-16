@@ -33,6 +33,7 @@ Contributors | Interests
 [Rahul Dahal](https://github.com/rahuldahal) | #WebDevelopment
 [Nirmal Nambiar](https://github.com/nim-nambi) | #CyberSec
 [Rahul Dahal](https://github.com/rahuldahal) | #WebDevelopment
+[SHWOI] | #DevOps
 [SIOHW] | #SecOps
 _Your Name Here_ | _What do you love?_
 
