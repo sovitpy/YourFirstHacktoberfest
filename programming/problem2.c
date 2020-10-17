@@ -8,37 +8,21 @@
 */
 
 // Write your program here!
-// this program concatenates two string in c without the use of strcat
-
 #include <stdio.h>
+#include <string.h>
+int main()
+{
+  char a[1000], b[1000];
 
-void main(void){
- 
-    // variable declaration
-    char string_one[100], string_two[100], accumulated_string[200];
-    int i, j, length = 0;
+  printf("Enter the first string\n");
+  gets(a);
 
-    // asking the user for the two strings
-    printf("String one: ");
-        scanf("%s", &string_one);
-    printf("String two: ");
-        scanf("%s", &string_two);
+  printf("Enter the second string\n");
+  gets(b);
 
-    // finding the "actual" length of string_one
-    for(i = 0 ; i<100 ; i++){
-        accumulated_string[i] = string_one[i]; // copying "string_one" in "accumulated_string"
-        if(string_one[i] == '\0')
-            break;
-        length++;
-    }
+  strcat(a, b);
 
-    // appending the string_two with string_one, after the last character of string_one flagged by "length"
-    for(j = 0 ; j<100 ; j++){
-        accumulated_string[length] = string_two[j];
-        if(string_two[j] == '\0')
-            break;
-        length++;
-    }
+  printf(a);
 
-    printf("\nThe concatenated string is %s", accumulated_string);
+  return 0;
 }
