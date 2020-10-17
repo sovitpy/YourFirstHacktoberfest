@@ -43,6 +43,7 @@
 | [Andreas Karabetian](https://github.com/adreaskar)     | #WebDevelopment        |
 | [Rajesh Kumar](https://github.com/Raj77230)            | #WebDevelopment        |
 | [Bibek Khatri](https://github.com/bibekme)             | #WebDevelopment        |
+| [Ashok Chapagai](https://ashokcpg.com.np/git)          | #DevSecNetSysOps       |
 | [Aakrity Chapagai](https://github.com/Aakrity17)       | #WebDevelopment        |
 | _Your Name Here_                                       | _What do you love?_    |
 
