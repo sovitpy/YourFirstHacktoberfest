@@ -8,6 +8,10 @@
 """
 
 # Write your program here!
-firststr=input("Enter first string:")
-secondstr=input("Enter second string:")
-print(firststr+secondstr)
+print(f'{input("Enter first string:")}{input("Enter second string:")}')
+
+# Using '+' operator for concatenating strings
+string1 = "Hello"
+string2 = "World"
+Result = string1 + string2
+print(Result)
