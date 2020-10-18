@@ -46,6 +46,7 @@
 | [Ashok Chapagai](https://ashokcpg.com.np/git)          | #DevSecNetSysOps       |
 | [Aakrity Chapagai](https://github.com/Aakrity17)       | #WebDevelopment        |
 | [Hemant](https://github.com/hemant72)                  | #Flutterdev            |
+| [Anjal Binayak](https://github.com/anjalbinayak)       | #WebDevelopment        |
 | _Your Name Here_                                       | _What do you love?_    |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
