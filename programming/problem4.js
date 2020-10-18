@@ -12,7 +12,6 @@ function ValidateEmail(mail) {
 	alert("You have entered an invalid email address!");
 	return false;
 }
-
 function httpGet(theUrl) {
 	var xmlHttp = new XMLHttpRequest();
 	xmlHttp.open("GET", theUrl, false); // false for synchronous request
