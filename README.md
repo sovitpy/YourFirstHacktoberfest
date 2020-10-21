@@ -50,7 +50,10 @@
 | [0-day Ninja](https://github.com/0dayninja)            | #0DaySec               |
 | HelloWorldExploit                                      | #ExploitDev            |
 | [DevExploiter](https://github.com/DevExploiter)        | #DevSecOps             |
+| [Ashim](https://github.com/ashim058)                   | #Development           |
+| [Veshraj Ghimire](https://github.com/V35HR4J)          | #CyberSec              |
 | [Avian Chhetri- Github](https://github.com/AvianQwe)   | #DevSec                |
+| _Your Name Here_                                       | _What do you love?_    |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
 
