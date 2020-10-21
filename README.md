@@ -54,6 +54,7 @@
 | [Veshraj Ghimire](https://github.com/V35HR4J)          | #CyberSec              |
 | [Avian Chhetri- Github](https://github.com/AvianQwe)   | #DevSec                |
 | [Ze Falcon](https://github.com/Ze-Falcon)              | #Development           |
+| _Your Name Here_                                       | _What do you love?_    |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
 
