@@ -51,6 +51,7 @@
 | HelloWorldExploit                                      | #ExploitDev            |
 | [DevExploiter](https://github.com/DevExploiter)        | #DevSecOps             |
 | [Ashim](https://github.com/ashim058)                   | #Development           |
+| [Veshraj Ghimire](https://github.com/V35HR4J)          | #CyberSec              |
 | _Your Name Here_                                       | _What do you love?_    |
 
 _You can also create a PR changing this table's caption text to "**Contributors Table**". This one is only for the first person to do so._
